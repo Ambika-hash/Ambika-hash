@@ -1,22 +1,22 @@
-# Hi, I'm Ambika
+# Hi, I'm Ambika ~ (:
 
-A third-year B.Tech student in Computer Science & Technology (DevOps) at **Presidency University, Bengaluru** | CGPA: 8.97
+A third-year B.Tech student in Computer Science & Technology (DevOps) at **Presidency University, Bengaluru** | CGPA: 8.97 ✨
 
 I love building things that solve real problems — from safety-aware navigation apps and financial management platforms to hardware systems and ML-powered dashboards. My work spans web apps, IoT, data projects, and DevOps tooling.
 
-Always curious, always shipping. Open to collaborations and new opportunities!
+Always curious, always shipping. Open to collaborations and new opportunities! ;)
 
 ---
 
 ## Explore My Work
 
-**[View My Full Portfolio](https://ambika-hash.github.io/portfolio/)** — A beautifully designed showcase of my projects, skills, research, and experience.
+**[→ View My Full Portfolio](https://ambika-hash.github.io/portfolio/)** — A beautifully designed showcase of my projects, skills, research, and experience. Come take a look~ 
 
 ---
 
 ## Connect With Me
 
-[LinkedIn](https://linkedin.com/in/ambika-m-devops) | [Email](mailto:ambika.m.sharma2005@gmail.com) | [GitHub](https://github.com/Ambika-hash)
+[LinkedIn](https://linkedin.com/in/ambika-m-devops) • [Email](mailto:ambika.m.sharma2005@gmail.com) • [GitHub](https://github.com/Ambika-hash)
 
 ---
 
@@ -69,14 +69,22 @@ Presidency University, Bengaluru | 2023 – 2027 | CGPA: 8.97
 
 ---
 
-## GitHub Stats
+## GitHub Stats — Here's What I've Been Up To ;)
 
-![](https://github-readme-stats.vercel.app/api?username=Ambika-hash&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Ambika-hash&theme=nord&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Ambika-hash&theme=shadow_blue&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Ambika-hash&theme=nord&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9800&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=58a6ff&dates=c9d1d9)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambika-hash&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambika-hash&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ---
 
-*Let's build something amazing together.*
+## Random Dev Quote ~ 💭
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+
+---
+
+*Let's build something amazing together* ~ (: 
+
+[![](https://visitcount.itsvg.in/api?id=Ambika-hash&icon=6&color=13)](#)
