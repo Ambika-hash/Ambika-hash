@@ -12,10 +12,10 @@ Always curious, always shipping. Open to collaborations and new opportunities! ;
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globealt&logoColor=white)](https://ambika-hash.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ambika-m-devops)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ambika.m.sharma2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ambika-hash)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFB6D9?style=for-the-badge&logo=globealt&logoColor=white)](https://ambika-hash.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF85C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ambika-m-devops)
+[![Email](https://img.shields.io/badge/Email-FF6BA6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ambika.m.sharma2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-EB2F96?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ambika-hash)
 
 </div>
 
@@ -117,6 +117,6 @@ Presidency University, Bengaluru | 2023 – 2027 | CGPA: 8.97
 
 *Let's build something amazing together* ~ (: 
 
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ambika-hash.Ambika-hash&left_color=55acee&right_color=4f63a3&left_text=Visitors)](https://github.com/Ambika-hash)
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ambika-hash.Ambika-hash&left_color=FFB6D9&right_color=EB2F96&left_text=Visitors)](https://github.com/Ambika-hash)
 
 </div>
