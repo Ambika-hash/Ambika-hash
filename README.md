@@ -8,11 +8,14 @@ Always curious, always shipping. Open to collaborations and new opportunities! ;
 
 ---
 
-## Quick Links
+## Quick Links ~ Let's Connect
 
 <div align="center">
 
-[View Portfolio](https://ambika-hash.github.io/portfolio/) • [LinkedIn](https://linkedin.com/in/ambika-m-devops) • [Email](mailto:ambika.m.sharma2005@gmail.com) • [GitHub](https://github.com/Ambika-hash)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globealt&logoColor=white)](https://ambika-hash.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ambika-m-devops)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ambika.m.sharma2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ambika-hash)
 
 </div>
 
@@ -52,7 +55,7 @@ Always curious, always shipping. Open to collaborations and new opportunities! ;
 
 ---
 
-## Featured Projects ~ Coming Soon
+## Featured Projects ~ My Best Work
 
 ### RouteWise
 A location-based safety and routing application that helps users choose safer travel paths in real time. Focuses on risk-aware navigation and using data to improve personal safety through tech.
