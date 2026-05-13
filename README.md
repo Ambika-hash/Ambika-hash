@@ -1,4 +1,4 @@
-# Hi, I'm Ambika ~ (:
+# Hi, I'm Ambika (✿◡‿◡)
 
 A third-year B.Tech student in Computer Science & Technology (DevOps) at **Presidency University, Bengaluru** | CGPA: 8.97
 
@@ -128,7 +128,7 @@ Presidency University, Bengaluru | 2023 – 2027 | CGPA: 8.97
 
 <div align="center">
 
-*Let's build something amazing together* ~ (: 
+*ᓚᘏᗢ Let's build something amazing together*   (≧∇≦)ﾉ
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ambika-hash.Ambika-hash&left_color=FFB6D9&right_color=EB2F96&left_text=Visitors)](https://github.com/Ambika-hash)
 
